@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "846184196492",
+    "project_id": "quiz-dc65e",
+    "storage_bucket": "quiz-dc65e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846184196492:android:b7c387ab6de0df9b480ea9",
+        "android_client_info": {
+          "package_name": "com.example.quiz_saadan_26980"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkD_QAmMCvPsu2ixJYzVfC3ib1u569a20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

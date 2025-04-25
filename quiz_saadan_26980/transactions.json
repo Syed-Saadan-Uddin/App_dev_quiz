@@ -1,0 +1,42 @@
+{
+    "transactions": {
+      "transaction1": {
+        "title": "Shopping",
+        "amount": -25,
+        "date": {"_seconds": 1713456000, "_nanoseconds": 0},
+        "category": "Shopping"
+      },
+      "transaction2": {
+        "title": "Grocery",
+        "amount": -16,
+        "date": {"_seconds": 1713369600, "_nanoseconds": 0},
+        "category": "Grocery"
+      },
+      "transaction3": {
+        "title": "Transport",
+        "amount": -52,
+        "date": {"_seconds": 1713283200, "_nanoseconds": 0},
+        "category": "Transport"
+      },
+      "transaction4": {
+        "title": "Mia Moore",
+        "amount": 215,
+        "date": {"_seconds": 1713196800, "_nanoseconds": 0},
+        "category": "Income",
+        "imageUrl": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+      "transaction5": {
+        "title": "Johnny Barnett",
+        "amount": 152,
+        "date": {"_seconds": 1713110400, "_nanoseconds": 0},
+        "category": "Income",
+        "imageUrl": "https://randomuser.me/api/portraits/men/36.jpg"
+      },
+      "transaction6": {
+        "title": "Payment",
+        "amount": -147,
+        "date": {"_seconds": 1713024000, "_nanoseconds": 0},
+        "category": "Payment"
+      }
+    }
+  }
